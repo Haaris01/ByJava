@@ -1,0 +1,18 @@
+class 				ABStract 			Interface
+
+
+1 ) class 			abstract class 			interface I 
+
+
+
+2) obj ? yes 			no 				no 
+
+3) COnstrauctpor : yes 		yes 				no 
+
+4) int a;			yes 				no 
+
+5 ) normal methdo only 		both 				only abstract 
+
+6) O %				0-100%				100%
+
+7)Mulitple inh : no 		no 				yes 
